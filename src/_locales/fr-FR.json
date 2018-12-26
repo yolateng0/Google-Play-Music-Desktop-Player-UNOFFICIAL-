@@ -71,7 +71,7 @@
   "playback-label-volume-up": "Augmenter le volume",
   "playback-label-info-track": "Notifier la piste courante",
   "playback-os-no-track-playing": "Aucune piste en cours de lecture",
-  "playback-label-im-feeling-lucky": "",
+  "playback-label-im-feeling-lucky": "Au hasard, je suis chanceux",
 
   "settings-requires-restart": "Besoin de redémarrer",
 
@@ -88,7 +88,7 @@
   "settings-option-custom-theme-light": "Clair",
   "settings-option-custom-theme-should-track-system": "Faire correspondre le thème sombre de votre système avec le type de thème",
 
-  "settings-option-enable-api": "Activer l'API Playback",
+  "settings-option-eneable-api": "Activer l'API Playback",
   "settings-option-enable-api-json": "Activer l'API JSON",
   "settings-option-enable-api-details": "Cela autorise les autres applications à communiquer avec GPMDP",
   "settings-option-enable-system-borders": "Utiliser les bordures du système",
@@ -97,9 +97,9 @@
   "settings-option-enable-taskbar-progress": "Afficher la progression du morceau dans la barre des tâches",
   "settings-option-enable-win10-media-service": "Activer le Service Multimedia de Windows 10",
   "settings-option-enable-win10-media-service-details": "Cela montrera la piste courante sur l'écran de verrouillage",
-  "settings-option-discord-rich-presence": "",
-  "settings-option-enable-win10-media-service-track-info": "",
-  "settings-option-change-locale": "Choisir un langage",
+  "settings-option-discord-rich-presence": "Différentes ambiances",
+  "settings-option-enable-win10-media-service-track-info": "Installer la reconnaissance des chansons pour Windows10",
+  "settings-option-change-locale": "Choisir votre langue",
 
   "settings-option-hotkey-explanation": "Les touches multimédias continueront à fonctionner malgré ces paramètres. Ceux-ci sont en complément des paramètres par défaut.",
   "settings-option-hotkey-explanation-2": "Utilise la touche <i>\"Echap\"</i> pour réinitialiser les touches de raccourci.",
@@ -112,7 +112,7 @@
 
   "settings-option-save-page": "Charger automatiquement la dernière page vue au lancement",
 
-  "settings-option-start-minimized": "Lancer l'application minimisé",
+  "settings-option-start-minimized": "Lancer l'application minimisée",
 
   "settings-option-scroll-lyrics": "Défilement automatique des paroles",
 
@@ -121,7 +121,7 @@
   "settings-option-mini-use-scroll-volume": "Utiliser la molette de la souris pour ajuster le volume",
 
   "settings-option-skip-bad-songs": "Passer automatiquement les pistes notées négativement",
-  "settings-option-try-supported-channel-layouts": "",
+  "settings-option-try-supported-channel-layouts": "Tester les chaines supportées",
 
   "settings-options-style-description": "Choisir un fichier CSS local pour injecter du style dans l'application",
   "settings-options-style-main-app": "Application principale",
@@ -131,22 +131,22 @@
   "settings-options-style-dialog-button": "Charger le CSS",
   "settings-options-style-dialog-css-files": "Fichiers CSS",
   "settings-options-style-dialog-all-files": "Tous les fichiers",
-  "slack-token-label": "",
-  "slack-token-placeholder": "",
+  "slack-token-label": "Accès pour Slack",
+  "slack-token-placeholder": "Accès par la plateformes Slack",
 
   "title-color-picker": "Sélecteur de couleur",
   "title-settings": "Paramètres",
   "title-settings-playback": "Lecture",
   "title-settings-general": "Général",
   "title-settings-hotkeys": "Raccourcis",
-  "title-settings-lastfm": "LastFM",
+  "title-settings-lastfm": "Paramètres LastFM",
   "title-settings-listenbrainz": "ListenBrainz",
   "title-settings-mini": "Mini Lecteur",
   "title-settings-style": "Styles Personnalisés",
-  "title-settings-slack": "",
+  "title-settings-slack": "Paramètres slack",
 
   "tray-label-audio-device": "Controlleur Audio",
   "tray-label-show": "Montrer",
-  "tray-label-gpm": "",
-  "tray-label-ytm": ""
+  "tray-label-gpm": "gpm",
+  "tray-label-ytm": "ytm"
 }
